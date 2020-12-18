@@ -3,7 +3,7 @@ This Python script takes "dark" photos and moves them into a labelled folder bas
  also features an adjustable "darkness" threshold that you can play around with to fit your needs.
 <br/>
 
-##### For Windows:
+#### For Windows:
 This script requires the opencv-python package. I recommend installing it in the general Python interpreter so you
  can run this script anywhere. Run the following in Command Prompt.
  
